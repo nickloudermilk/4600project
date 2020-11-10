@@ -21,7 +21,7 @@ public class FancyRestaurantManager {
 			employeeDatabase.add(example1);
 		Employee example2 = new Employee ("Donald Trump", "trump@gmail.com", 8.75);
 			employeeDatabase.add(example2);
-		Employee example3 = new Employee ("Karen Aguar", 14.50);
+		Employee example3 = new Employee ("Karen Aguar", 14.00);
 			employeeDatabase.add(example3);
 		Employee example4 = new Employee ("Joe Biden", "president-elect@whitehouse.gov", 10.50);
 			employeeDatabase.add(example4);
