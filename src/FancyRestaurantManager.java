@@ -40,7 +40,7 @@ public class FancyRestaurantManager {
 			System.out.println("2. New Drive-Thru Transaction");
 			System.out.println("3. View Daily Sales Total");
 			System.out.println("4. Lookup/Refund Transaction");
-			System.out.println("5. Manager Functions");
+			System.out.print("5. Manager Functions  ");
 
 			int menuchoice = keyboard.nextInt();
 			System.out.println();
